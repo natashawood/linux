@@ -1,3 +1,3 @@
 # linux
 
-[Numbers file] (linux/trainingmaterial/NumbersFile)
+[Numbers file](linux/trainingmaterial/NumbersFile)
